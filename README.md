@@ -106,9 +106,17 @@ javac Homework.java
 java Homework
 ```
 
-### 4. View Output:
-- The program prints the move count and demonstrates map division in the Karel simulator.
+## Output Samples
 
+Here are sample outputs showcasing the solution's results:
+
+-  sample 1:
+ ![Samples](https://github.com/radwanzoubi1/Karel-The-Robot-Map-Division-Algorithm/blob/main/sample%201.JPG)
+  
+- sample 2:
+ ![Samples](https://github.com/radwanzoubi1/Karel-The-Robot-Map-Division-Algorithm/blob/main/sample%202.JPG))
+- sample 3:
+ ![Samples](https://github.com/radwanzoubi1/Karel-The-Robot-Map-Division-Algorithm/blob/main/sample%203.JPG)
 ---
 
 ## Acknowledgments
