@@ -89,7 +89,7 @@ To learn more about Karel and its programming environment, explore these resourc
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-repo/Karel-Map-Division.git
+git clone https://github.com/radwanzoubi1/Karel-Map-Division.git
 cd Karel-Map-Division
 ```
 
